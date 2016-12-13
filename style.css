@@ -1,8 +1,8 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7382859/Jayce_Splash_4.jpg");
       background-size: cover;
-      color: white;
+      color:#7ac7ff;
     }
     .nav {
       color: white;
@@ -10,10 +10,13 @@
     h1 {
       font-size: 70px;
     }
+    body{
+      background-color:#9b9915;
+    }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border: 7px solid #e2df0b;
+      border-radius: 50px;
     }
     ul {
       padding: 10px;

@@ -3,6 +3,8 @@
       background: url("https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7382859/Jayce_Splash_4.jpg");
       background-size: cover;
       color:#7ac7ff;
+    
+    }
     }
     .nav {
       color: white;
@@ -11,18 +13,18 @@
       font-size: 70px;
     }
     body{
-      background-color:#9b9915;
+      background-color:gold;
     }
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid #e2df0b;
       border-radius: 50px;
     }
-    ul {
+    .nav-ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
     }
-    li {
+    .nav-li {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
@@ -41,3 +43,6 @@
         display: block;
       }
     }
+#about-li{
+  display:inline-block;
+} 
